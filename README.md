@@ -3,11 +3,11 @@ Retrouvez ici les contenus à étudier en autonomie du module *sensibilisation*.
 _____
 ## Planning de travail
 
-- 9 septembre 2021 : réunion de rentrée
-- Du 13 au 29 septembre 2021 : faire les paragraphes 1, 2 et 3.
-- Séance en présentiel le 30 septembre 2021 après-midi.
-- Du 1 octobre au 24 octobre 2021 : faire les paragraphes 4, 5 et 6.
-- Séances et TP les lundi 25 (toute la journée), mardi 26 octobre et mercredi 27 octobre 2021 (9h-14h).
+- 8 septembre 2022 : réunion de rentrée
+- Du 12 au 28 septembre 2022 : faire les paragraphes 1, 2 et 3.
+- Séance en deux groupes le 29 septembre 2022 après-midi.
+- Du 30 septembre au 30 octobre 2022 : faire les paragraphes 4, 5 et 6.
+- Séances et TP les mercredi 2 novembre (toute la journée), jeudi 3 novembre et vendredi 4 novembre 2022 (9h-14h).
 ______
 
 Les ressources pédagogiques offrent plusieurs niveaux de lecture ou d'utilisation afin d'être au mieux adaptées à un public hétérogène. Plus précisément il faut voir ce certificat comme une introduction à la *Science des Données* qui propose des pistes et références pour des approfondissements ultérieurs.

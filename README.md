@@ -113,7 +113,7 @@ Le travail attendu est un travail personnel d’autoévaluation de votre maîtri
 - Tester la nullité du coefficient de corrélation linéaire ;
 - ...
 
-Toutes ces études feront l’objet d’une restitution en groupe lors de la séance en <ins> ligne du 1er octobre </ins> et de discussions lors des séances hors présentiel (contactez alors les enseignants florent.bourgeois@ensiacet.fr et rachid.ouaret@ensiacet.fr ou via Slack).
+Toutes ces études feront l’objet d’une restitution en groupe lors de la séance en <ins> ligne du 1er octobre </ins> et de discussions lors des séances hors présentiel (contactez alors l'enseignant rachid.ouaret@ensiacet.fr ou via Slack).
 
 
 ## 3 Modélisation statistique

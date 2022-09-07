@@ -52,7 +52,7 @@ L'installation de certains paquets requis pour exécuter les codes peut causer d
 Les sections 1, 2 et 3 du module de sensibilisation portent sur des connaissances de base en analyse statistique de données, que d’aucuns auront sans doute abordées durant leurs études. Elles se clôtureront par une séance d’une demi-journée en présentiel, durant laquelle les notions acquises seront revisitées sur la base d’un jeu de questions-réponses entre les élèves de la classe et les enseignants, en s’appuyant sur les travaux personnels proposés dans ces sections.
 
 ## 1 Introduction à R pour le calcul statistique
-*A faire sur la période du 10/09 au 29/09*
+*A faire sur la période du 12/09 au 28/09*
 
 Le langage de programmation R est un langage reconnu pour l’analyse statistique de données, massives ou non.  L’acquisition de compétences dans l’utilisation de R est aujourd’hui un atout professionnel pour ceux qui le maîtrisent.
 
@@ -63,7 +63,7 @@ Le langage de programmation R est un langage reconnu pour l’analyse statistiqu
 - De nombreux sites internet sont dédiés aux utilisateurs de R, parmi lesquels : www.r-bloggers.com (the «  R blogosphere »), https://datascienceplus.com/ (online learning resource), https://www.datacamp.com/ (online learning resource).
 
 ### 1.2 Travail personnel demandé 
-L’exercice que vous soumettrez au terme de ce module, par binôme, vous permettra d’acquérir des compétences en langage R. Vous êtes invité à contacter vos enseignants (florent.bourgeois@ensiacet.fr et rachid.ouaret@ensiacet.fr ou via Slack) pour vous aider dans la réalisation de ce travail. L’exercice porte sur la manipulation de variables aléatoires et leurs distributions statistiques, un des socles de l’analyse statistique de données.
+L’exercice que vous soumettrez au terme de ce module, par binôme, vous permettra d’acquérir des compétences en langage R. Vous êtes invité à contacter votre enseignant (rachid.ouaret@ensiacet.fr ou via Slack) pour vous aider dans la réalisation de ce travail. L’exercice porte sur la manipulation de variables aléatoires et leurs distributions statistiques, un des socles de l’analyse statistique de données.
 
 Soit X1 et X2 deux variables aléatoires indépendantes qui suivent une loi normale ou bien une loi uniforme, au choix. Écrivez en langage *R* les 6 fonctions (p, d, q, r, e et v)CertificatBigData, dans un même script R, qui permettent de calculer la fonction de répartition CDF (pour *Cumulative Distribution Function*), la fonction densité de probabilité PDF (pour *Probability Density Function*), les quartiles, la génération de nombres aléatoires, la moyenne et la variance des variables Y = X1+X2, Z = X1×X2 et Z = X1÷X2. Les dites fonctions produiront, selon le choix de l’utilisateur, les graphes pertinents qui permettent de visualiser les résultats attendus de ces 6 fonctions.
 
@@ -90,7 +90,7 @@ Pour celles et ceux qui veulent s’amuser, il vous est proposé en option au tr
 **Le projet doit être soumis via [Moodle](https://foad-uftmip.univ-toulouse.fr/)**
 
 ## 2 Éléments d’analyse statistique de données
-*A faire sur la période du 10/09 au 29/09*
+*A faire sur la période du 12/09 au 28/09*
 
 Cette section vous permettra d’acquérir les notions élémentaires de l’analyse statistique de données. Elles sont la base des méthodes d’inférence et de modélisation mises en œuvre dans la suite.
 
@@ -117,7 +117,7 @@ Toutes ces études feront l’objet d’une restitution en groupe lors de la sé
 
 
 ## 3 Modélisation statistique
-*A faire sur la période du 10/09 au 29/09*
+*A faire sur la période du 12/09 au 28/09*
 
 Cette section vous permettra d’acquérir et de mettre en œuvre 2 méthodes de régression couramment utilisées dans l’analyse de données massives : la régression linéaire multiple et la régression logistique.
 
@@ -140,13 +140,13 @@ Vous trouverez ci-après, sans caractère limitatif, une liste de sujets auxquel
 - Quel est le « bon » modèle à choisir : nombre de paramètres, valeurs des paramètres,... ?;
 - ...
 
-Vous pouvez également nous soumettre ce travail (florent.bourgeois@ensiacet.fr et rachid.ouaret@ensiacet.fr ou via [Moodle](https://foad-uftmip.univ-toulouse.fr/)), sous la forme d’un notebook R ou d’une application Shiny pour information et retour, si besoin.
+Vous pouvez également nous soumettre ce travail (rachid.ouaret@ensiacet.fr) ou via [Moodle](https://foad-uftmip.univ-toulouse.fr/)), sous la forme d’un notebook R ou d’une application Shiny pour information et retour, si besoin.
 
 
 _____
 
 ## 4 Introduction à Python
-*A faire sur la période du 1/10 au 24/10*
+*A faire sur la période du 30/09 au 30/10*
 
 *Python* et ses librairies produisent moins de résultat utiles que R à l'interprétation statistique mais fournissent des codes généralement plus efficaces pour aborder le traitement de données massives.
 
@@ -156,7 +156,7 @@ Une connaissance experte de Python n'est pas indispensbale au suivi de ce module
 
 
 ## 5 Exploration Multidimensionnelle
-*A faire sur la période du 1/10 au 24/10*
+*A faire sur la période du 30/09 au 30/10*
 
 Le choix a été fait de mettre plus particulièrement l'accent sur des exemples d'application issus du monde industriel (données physiques quantitatives) plutôt que des applications (données qualitatives) de type sondage,  marketing ou fouille de textes... Comme écrit plus haut, l'introduction à d'autres méthodes et d'autres exemples d'application sont à rechercher dans les ressources des autres niveaux (2 et 4) d'approfondissement.
 
@@ -179,7 +179,7 @@ Réaliser ces tutoriels en autonomie:
 **Travail personnel demandé**: Préparer les réponses aux questions **Q** qui jalonnent chaque tutoriel.
 
 
-### 5.3 Présentiel le lundi 25 octobre 2021
+### 5.3 Présentiel le mercredi 2 novembre 2022
 
 - Revue des points délicats du cours et des questions soulevées dans les tutoriels
 
@@ -188,7 +188,7 @@ Réaliser ces tutoriels en autonomie:
 D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Exploration`](https://github.com/wikistat/Exploration).
 
 ## 6 Principes de l'Apprentissage Statistique
-*A faire sur la période du 1/10 au 24/10*
+*A faire sur la période du 30/09 au 30/10*
 
 ### 6.1 Document de base à consulter en autonomie
 
@@ -201,7 +201,7 @@ D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Explora
 
 **Travail personnel demandé**: Préparer les réponses aux questions **Q** qui jalonnent chaque tutoriel.
 
-### 6.3 Présentiel le lundi 25 octobre 2021 
+### 6.3 Présentiel le mercredi 2 novembre 2022 
 
 - Revue des points délicats du cours et des questions soulevées dans les tutoriels
 
@@ -212,18 +212,18 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 
 ## 7 Optimisation
 
-<ins> Séance en présentiel le mardi 26 octobre 2021. </ins> 
+<ins> Séance le jeudi 3 novembre 2022 </ins> 
 
 - [Slides du cours](https://github.com/Certificat-Science-des-donnees-Big-Data/Module-sensibilisation/blob/master/Documents/slides_Oct26_optim.pdf)
 - [Corrigé du TP](https://github.com/Certificat-Science-des-donnees-Big-Data/Module-sensibilisation/blob/master/Documents/correctiontp1_certificat.ipynb)
 
 ## 8 Techniques de virtualisation et containerisation, les plateformes cloud
 
-<ins> Séance en présentiel le mercredi 27 octobre 2021 </ins>
+<ins> Séance le vendredi 4 novembre 2022 </ins>
 
 - [Slides du cours](https://github.com/Certificat-Science-des-donnees-Big-Data/Module-sensibilisation/blob/master/Documents/certificat%20Big%20Data-CM%20virtualisation-containerisation-cloud%2028oct2020.pdf)
 
 ## 9 Projet de fin de module
 
-- [Sujet du projet](https://github.com/Certificat-Science-des-donnees-Big-Data/Module-sensibilisation/blob/master/Documents/Sujet%20projet%20fin%20de%20module%20sensibiliation%202021.pdf)
-- [Informations soumission du projet et évaluation](https://github.com/Certificat-Science-des-donnees-Big-Data/Module-sensibilisation/blob/master/Documents/Rendu%20du%20projet%20de%20fin%20de%20module.pdf)
+- Sujet du projet : à venir
+- Informations soumission du projet et évaluation : à venir

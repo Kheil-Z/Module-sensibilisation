@@ -87,7 +87,7 @@ Chaque fonction sera richement commentée. En particulier, la signature de chaqu
 
 Pour celles et ceux qui veulent s’amuser, il vous est proposé en option au travail demandé de produire une version accessible et interactive de votre code depuis un navigateur web, via un ordinateur ou un téléphone. Pour ce faire, vous utiliserez le package « shiny » (voir https://www.r-bloggers.com/building-shiny-apps-an-interactive-tutorial/). Un exemple très basique de ce que vous avez à faire se trouve à l’adresse suivante https://flbourgeois.shinyapps.io/Exo_Introduction_R/. Notez qu’il s’agit d’un exemple illustratif, très basique, qui ne traite d’ailleurs que le cas de 2 variables normales. Vous pouvez faire beaucoup mieux !
 
-**Le projet doit être soumis via [Moodle](https://foad-uftmip.univ-toulouse.fr/)**
+**Le projet doit être soumis via [Moodle](https://foad-uftmip.univ-toulouse.fr/)** > Espace Toulouse Tech > Sciences des données et Big data
 
 ## 2 Éléments d’analyse statistique de données
 *A faire sur la période du 12/09 au 28/09*

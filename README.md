@@ -90,7 +90,7 @@ Pour celles et ceux qui veulent s’amuser, il vous est proposé en option au tr
 **Le projet doit être soumis via [Moodle](https://foad-uftmip.univ-toulouse.fr/)** > Espace Toulouse Tech > Sciences des données et Big data
 
 ## 2 Éléments d’analyse statistique de données
-*A faire sur la période du 12/09 au 28/09*
+*A faire sur la période du 12/09 au 29/09*
 
 Cette section vous permettra d’acquérir les notions élémentaires de l’analyse statistique de données. Elles sont la base des méthodes d’inférence et de modélisation mises en œuvre dans la suite.
 
@@ -117,7 +117,7 @@ Toutes ces études feront l’objet d’une restitution en groupe lors de la sé
 
 
 ## 3 Modélisation statistique
-*A faire sur la période du 12/09 au 28/09*
+*A faire sur la période du 12/09 au 26/09*
 
 Cette section vous permettra d’acquérir et de mettre en œuvre 2 méthodes de régression couramment utilisées dans l’analyse de données massives : la régression linéaire multiple et la régression logistique.
 
@@ -127,9 +127,9 @@ Cette section vous permettra d’acquérir et de mettre en œuvre 2 méthodes de
 - [Modèle gaussien: régression linéaire multiple](http://wikistat.fr/pdf/st-m-modlin-regmult.pdf)
 - [Modèle binomial ou régression logistique](http://wikistat.fr/pdf/st-m-modlin-reglog.pdf)
  
-### 3.2. Travail personnel demandé (à envoyer pour évaluation)
+### 3.2. Travail personnel demandé (à envoyer avant 26-09 pour évaluation)
 
-Le travail attendu est un travail personnel d’autoévaluation de votre maîtrise de la régression linéaire multiple et de la régression logistique, en les appliquant à la prédiction du pic d’ozone de la ville de Rennes. Vous pouvez également utiliser des données plus « locales », issues de http://data-atmo-occitanie.opendata.arcgis.com/datasets (données de la qualité de l’air en Occitanie) et/ou de https://data.toulouse-metropole.fr/pages/accueil/ (données publiques Toulouse Métropole, notamment données météo).
+Le travail attendu est un travail en groupe pour l'évaluation de votre maîtrise de la régression linéaire multiple et de la régression logistique, en les appliquant à la prédiction du pic d’ozone de la ville de Rennes. Vous pouvez également utiliser des données plus « locales », issues de http://data-atmo-occitanie.opendata.arcgis.com/datasets (données de la qualité de l’air en Occitanie) et/ou de https://data.toulouse-metropole.fr/pages/accueil/ (données publiques Toulouse Métropole, notamment données météo).
 Vous trouverez ci-après, sans caractère limitatif, une liste de sujets auxquels vous êtes invité à réfléchir en y apportant une ou plusieurs réponses basées sur les concepts étudiés dans cette section : 
 
 - Calculer les paramètres des modèles de régression (linéaire multiple et logistique) liant la variable pic d’ozone aux autres variables explicatives;

@@ -113,7 +113,7 @@ Le travail attendu est un travail personnel d’autoévaluation de votre maîtri
 - Tester la nullité du coefficient de corrélation linéaire ;
 - ...
 
-Toutes ces études feront l’objet d’une restitution en groupe lors de la séance en <ins> ligne du 1er octobre </ins> et de discussions lors des séances hors présentiel (contactez alors l'enseignant rachid.ouaret@ensiacet.fr ou via Slack).
+Toutes ces études feront l’objet d’une restitution en groupe lors de la séance du <ins> 29 septembre </ins> et de discussions lors des séances hors présentiel (contactez alors l'enseignant rachid.ouaret@ensiacet.fr ou via Slack).
 
 
 ## 3 Modélisation statistique
@@ -140,7 +140,7 @@ Vous trouverez ci-après, sans caractère limitatif, une liste de sujets auxquel
 - Quel est le « bon » modèle à choisir : nombre de paramètres, valeurs des paramètres,... ?;
 - ...
 
-Vous pouvez également nous soumettre ce travail (rachid.ouaret@ensiacet.fr) ou via [Moodle](https://foad-uftmip.univ-toulouse.fr/)), sous la forme d’un notebook R ou d’une application Shiny pour information et retour, si besoin.
+Vous devez nous soumettre ce travail via [Moodle](https://foad-uftmip.univ-toulouse.fr/)), sous la forme d’un notebook R ou d’une application Shiny pour information et retour, si besoin.
 
 
 _____

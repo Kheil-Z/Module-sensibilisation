@@ -129,7 +129,7 @@ Cette section vous permettra d’acquérir et de mettre en œuvre 2 méthodes de
  
 ### 3.2. Travail personnel demandé (à envoyer avant 26-09 pour évaluation)
 
-Le travail attendu est un travail en groupe pour l'évaluation de votre maîtrise de la régression linéaire multiple et de la régression logistique, en les appliquant à la prédiction du pic d’ozone de la ville de Rennes. Vous pouvez également utiliser des données plus « locales », issues de http://data-atmo-occitanie.opendata.arcgis.com/datasets (données de la qualité de l’air en Occitanie) et/ou de https://data.toulouse-metropole.fr/pages/accueil/ (données publiques Toulouse Métropole, notamment données météo).
+Le travail attendu est un travail en groupe pour l'évaluation de votre maîtrise de la régression linéaire multiple et de la régression logistique, en les appliquant à la problématique de prédiction la ville de Toulouse. Vous pouvez utiliser des données « locales », issues de http://data-atmo-occitanie.opendata.arcgis.com/datasets (données de la qualité de l’air en Occitanie) et/ou de https://data.toulouse-metropole.fr/pages/accueil/ (données publiques Toulouse Métropole, notamment données météo).
 Vous trouverez ci-après, sans caractère limitatif, une liste de sujets auxquels vous êtes invité à réfléchir en y apportant une ou plusieurs réponses basées sur les concepts étudiés dans cette section : 
 
 - Calculer les paramètres des modèles de régression (linéaire multiple et logistique) ;

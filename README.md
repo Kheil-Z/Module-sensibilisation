@@ -127,7 +127,7 @@ Cette section vous permettra d’acquérir et de mettre en œuvre 2 méthodes de
 - [Modèle gaussien: régression linéaire multiple](http://wikistat.fr/pdf/st-m-modlin-regmult.pdf)
 - [Modèle binomial ou régression logistique](http://wikistat.fr/pdf/st-m-modlin-reglog.pdf)
 
-Il y a aussi la présentation en présentiel : [Modèles de régression](https://github.com/Certificat-Science-des-donnees-Big-Data/Module-sensibilisation/blob/master/Documents/Regression_stat_certificatBigData.pdf)
+Il y a aussi la présentation pdf lors de la séance en présentiel : [Modèles de régression](https://github.com/Certificat-Science-des-donnees-Big-Data/Module-sensibilisation/blob/master/Documents/Regression_stat_certificatBigData.pdf)
  
 ### 3.2. Travail personnel demandé (à envoyer avant 26-09 pour évaluation)
 
